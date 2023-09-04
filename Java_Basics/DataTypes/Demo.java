@@ -10,7 +10,7 @@ public class Demo {
          double d = 4.5;
         char c = 'k';
         boolean b = true;
-        System.out.println(num + " " +by+ " " +b+ " " +s+ " " +l+ " " +F+ " " +d+ " "  ); 
+        System.out.println(num + " " +by+ " " +b+ " " +s+ " " +l+ " " +F+ " " +d+ " " +c ); 
 
 
     }
